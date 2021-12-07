@@ -1,0 +1,13 @@
+language: python
+
+python:
+  - 3.9
+
+install:
+  - pip install --shap
+  - pip install --numpy
+  - pip install --pandas
+  - pip install --matplotlib
+  - pip install --sklearn
+  - pip install --xgboost
+  - python setup.py develop
