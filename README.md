@@ -22,7 +22,7 @@ Python 3.9.7
 packaged by conda-forge Clang 11.1.0
 
 
-Pageckage version:  
+Package version:  
 numpy==1.21.1  
 pandas==1.3.1  
 scikit-learn==0.24.2  
