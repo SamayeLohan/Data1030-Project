@@ -12,7 +12,7 @@ This project aims to predict a player’s position through skills-based attribut
 The FIFA 19 Dataset can be found here: [FIFA 19 Dataset](https://www.kaggle.com/karangadiya/fifa19)
 
 
-There are 17 unique positions in the dataset and they were strategically assigned to one of two classes:  (offense), 1 (defense), as mentioned above. To predict which positions fell in which class, 34 features, physical and skills-based, were extracted from the main dataset and preprocessed. 
+There are 27 unique positions in the dataset and they were strategically assigned to one of two classes:  (offense), 1 (defense), as mentioned above. To predict which positions fell in which class, 34 features, physical and skills-based, were extracted from the main dataset and preprocessed. 
 
   
 
