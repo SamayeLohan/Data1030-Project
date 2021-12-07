@@ -1,0 +1,5 @@
+,Model,ROC AUC Score
+1,Random Forest,0.9655499068339428
+0,Support Vector Machines,0.9530041410935246
+2,Logistic Regression,0.9464498194728999
+3,Decision Tree,0.8578012069829223
