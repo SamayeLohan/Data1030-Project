@@ -1,4 +1,4 @@
-# Predicting a Player's Position using the FIFA 19 Dataset  ![](https://img.shields.io/badge/python-3.7+-pink.svg)
+# Predicting a Player's Position using the FIFA 19 Dataset  ![](https://img.shields.io/badge/python-3.9+-pink.svg)
 
 This is a binary classification project which uses various machine learning algorithms in an effort to predict one of two classes: 0 (offense), 1 (defense). 
 
